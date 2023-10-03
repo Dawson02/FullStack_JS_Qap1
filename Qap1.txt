@@ -1,0 +1,10 @@
+Qap 1
+
+2a) http (HTTP Module):
+The http module in Node.js is a powerful tool for handling HTTP requests and building web applications. It allows you to create HTTP servers that listen for incoming requests and respond to them. You can define how your server handles different routes, request methods, and status codes. For example, you can create a web server that serves HTML pages, handles API requests, or performs various tasks in response to HTTP requests. It's essential for building web applications, RESTful APIs, and server-side applications.
+
+ events (Events Module):
+The events module in Node.js enables event-driven programming. It provides an EventEmitter class that allows you to create, emit, and listen for custom events. This is incredibly useful for building applications where different components or modules need to communicate asynchronously through events. You can define custom events and register listeners to react to specific events when they occur. For example, you can use it to handle user interactions in a web application, manage asynchronous tasks, or coordinate actions in a real-time application.
+
+fs (Filesystem Module):
+The fs module in Node.js is used for interacting with the file system. It provides methods for reading and writing files, creating directories, checking file existence, and performing various file-related operations. It's an essential tool for tasks such as reading configuration files, logging data, or managing data storage. For example, you can use it to read JSON configuration files, write logs to a file, or read data from a database file. It's a crucial component for building applications that require file I/O operations, including web servers that serve static files or applications that read and write data to disk.
